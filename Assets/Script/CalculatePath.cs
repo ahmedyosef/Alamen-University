@@ -4,8 +4,8 @@ using UnityEngine.AI;
 [RequireComponent(typeof(NavMeshAgent))]
 public class CalculatePath : MonoBehaviour
 {
-    [SerializeField]
-    private Transform destinationObject;
+    
+    public Transform destinationObject;
     [SerializeField]
     private LineRenderer lineRenderer;
     NavMeshAgent meshAgent;
