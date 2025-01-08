@@ -12,6 +12,7 @@ public class RoomControler : MonoBehaviour
     public Transform[] points;
     public CalculatePath calculatePath;
     public int roomNumper;
+    public DynamicCamera Camera;
 
     private void Start()
     {
@@ -46,6 +47,7 @@ public class RoomControler : MonoBehaviour
         roomNumper=dropDownRoom.value;
         linRender.SetActive(true);
         calculatePath.destinationObject = points[roomNumper];
+        Camera.EndPoint= points[roomNumper];
     }
 }
 

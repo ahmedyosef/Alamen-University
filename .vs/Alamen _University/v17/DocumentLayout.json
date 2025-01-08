@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "D:\\Amar\\Alamen _University\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8291C0B9-9B8B-09D5-4033-4BC122B2A620}|Assembly-CSharp.csproj|d:\\amar\\alamen _university\\assets\\script\\roomcontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8291C0B9-9B8B-09D5-4033-4BC122B2A620}|Assembly-CSharp.csproj|d:\\amar\\alamen _university\\assets\\script\\dynamiccamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8291C0B9-9B8B-09D5-4033-4BC122B2A620}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\dynamiccamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8291C0B9-9B8B-09D5-4033-4BC122B2A620}|Assembly-CSharp.csproj|D:\\Amar\\Alamen _University\\assets\\script\\roomcontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8291C0B9-9B8B-09D5-4033-4BC122B2A620}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\roomcontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8291C0B9-9B8B-09D5-4033-4BC122B2A620}|Assembly-CSharp.csproj|D:\\Amar\\Alamen _University\\assets\\script\\calculatepath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8291C0B9-9B8B-09D5-4033-4BC122B2A620}|Assembly-CSharp.csproj|d:\\amar\\alamen _university\\assets\\script\\calculatepath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8291C0B9-9B8B-09D5-4033-4BC122B2A620}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\calculatepath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -22,36 +26,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "DynamicCamera.cs",
+              "DocumentMoniker": "D:\\Amar\\Alamen _University\\Assets\\Script\\DynamicCamera.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\DynamicCamera.cs",
+              "ToolTip": "D:\\Amar\\Alamen _University\\Assets\\Script\\DynamicCamera.cs",
+              "RelativeToolTip": "Assets\\Script\\DynamicCamera.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T20:59:24.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "CalculatePath.cs",
               "DocumentMoniker": "D:\\Amar\\Alamen _University\\Assets\\Script\\CalculatePath.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\CalculatePath.cs",
               "ToolTip": "D:\\Amar\\Alamen _University\\Assets\\Script\\CalculatePath.cs",
               "RelativeToolTip": "Assets\\Script\\CalculatePath.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T17:04:51.025Z"
+              "WhenOpened": "2025-01-07T17:04:51.025Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "RoomControler.cs",
               "DocumentMoniker": "D:\\Amar\\Alamen _University\\Assets\\Script\\RoomControler.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\RoomControler.cs",
               "ToolTip": "D:\\Amar\\Alamen _University\\Assets\\Script\\RoomControler.cs",
               "RelativeToolTip": "Assets\\Script\\RoomControler.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAiwBYAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAmwCwAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-07T16:37:54.963Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "CalculatePath.cs",
               "DocumentMoniker": "D:\\Amar\\Alamen _University\\Assets\\CalculatePath.cs",
               "RelativeDocumentMoniker": "Assets\\CalculatePath.cs",
